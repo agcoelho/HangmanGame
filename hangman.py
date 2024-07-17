@@ -66,5 +66,5 @@ def play():
             if right:
                 print('congratulations, you have won!!!\n')
 
-        option = int(input('would you like to play again? 1-YES // 2-NO'))
+        option = int(input('would you like to play again? 1-YES // 2-NO\n'))
 
